@@ -1,0 +1,35 @@
+.navbar > .container,
+.navbar > .container-fluid {
+    background-color: transparent;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(247, 243, 247);
+    font-weight: 100;
+}
+
+.navbar {
+    border-bottom: none;
+}
+
+.navbar i {
+    color: rgb(241, 241, 241);
+}
+
+#auth_ a {
+    color: rgb(255, 255, 255);
+}
+
+h5 {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+#auth_ a {
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}

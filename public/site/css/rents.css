@@ -1,0 +1,44 @@
+.letreiro {
+    margin-top: 1vh;
+    font-weight: none;
+    margin-left: -50px;
+}
+
+.grid-container > div {
+    background-color: rgba(175, 175, 175, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+.grid-container {
+    height: 60px;
+}
+
+.e8_20 {
+    width: 50vh;
+    border-radius: 5px;
+    height: 36vh;
+    background-color: rgb(199, 199, 199);
+    background-repeat: no-repeat;
+    margin-left: 68px;
+    margin-top: -45px;
+}
+
+.e8_21 {
+    background-color: rgb(199, 199, 199);
+    width: 120vh;
+    height: 230px;
+    border-radius: 5px;
+    margin-left: 80vh;
+    margin-top: -37vh;
+}
+
+.h2,
+.h2 {
+    margin-top: 100vh;
+}
+
+.alugar {
+    align-items: center;
+}
